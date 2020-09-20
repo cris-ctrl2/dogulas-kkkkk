@@ -4,18 +4,3 @@ body{
     color:rgb(64, 182, 197);
     font-family: Arial;
 }
-button{
-    text-align: center;
-    weight:50;
-    height:40;
-    border-radius: 30px;
-    background-color: rgb(193, 202, 197);
-}
-h2{
-    border: 40px;
-}
-img{
-    border-radius: 30px;
-    height: 300px;
-    weight: 350px;
-}
